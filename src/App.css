@@ -2,6 +2,10 @@
   color: #1737a0 !important;
 }
 
+.footer a {
+  color: #1737a0 !important;
+}
+
 .body {
   background-color: #92bfb9;
   min-height: 90vh;
