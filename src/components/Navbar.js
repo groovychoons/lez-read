@@ -27,6 +27,9 @@ function CustomNavbar() {
             <Nav.Link as={Link} to="/zines">
               Zines
             </Nav.Link>
+            <Nav.Link as={Link} to="/palestine-reading-list">
+              Palestine Reading List
+            </Nav.Link>
             <Nav.Link as={Link} to="/contact">
               Contact
             </Nav.Link>

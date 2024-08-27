@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Archive from "./components/Archive";
 import Events from "./components/Events";
+import Palestine from "./components/Palestine";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -19,6 +20,7 @@ function App() {
           <Route path="/zines" element={<Archive />} />
           <Route path="/events" element={<Events />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/palestine-reading-list" element={<Palestine />} />
         </Routes>
       </div>
       <Footer />
