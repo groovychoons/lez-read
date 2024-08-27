@@ -22,7 +22,7 @@ function Events() {
               xl={2}
               className="mb-4"
               key={index}
-              style={{ display: "flex " }}
+              style={{ display: "flex" }}
             >
               <Card
                 style={{ flex: 1, display: "flex", flexDirection: "column" }}

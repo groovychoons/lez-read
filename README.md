@@ -1,5 +1,7 @@
 # Lez Read's very own silly little website
 
+Only gorgeous gorgeous girls get their very own website.
+
 ## Available Scripts
 
 In the project directory, you can run:

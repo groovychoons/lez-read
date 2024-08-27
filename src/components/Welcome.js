@@ -10,7 +10,7 @@ function Welcome() {
         style={{
           backgroundImage: `url(${crowd})`,
           backgroundSize: "cover",
-          backgroundPosition: "top center", // Aligns the top of the image with the top of the container
+          backgroundPosition: "top center",
           minHeight: "80vh",
           maxWidth: "100vw",
         }}

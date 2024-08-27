@@ -33,6 +33,14 @@ export const eventData = [
   },
   {
     title: "Book club",
+    description: "An Interview with Huw Lemmey and Ben Miller",
+    date: "04.06.22",
+    image: require("../assets/posters/bad-gays.png"),
+    alt: "A Paned with Bad Gays",
+  },
+
+  {
+    title: "Book club",
     author: "Kathy Acker",
     book: "New York City in 1979",
     date: "18.08.22",
@@ -97,6 +105,13 @@ export const eventData = [
   },
   {
     title: "Book club",
+    description: "An Interview with Rachel Dawson",
+    date: "25.05.23",
+    image: require("../assets/posters/neon-roses.png"),
+    alt: "Neon Roses Book Launch",
+  },
+  {
+    title: "Book club",
     author: "Radclyffe Hall",
     book: "The Well of Loneliness",
     date: "20.06.23",
@@ -118,6 +133,13 @@ export const eventData = [
     date: "21.09.23",
     image: require("../assets/posters/Lez Read _15.png"),
     alt: "Lez Read Dawson",
+  },
+  {
+    title: "Book club",
+    description: "A book club outing to Hay-on-Wye!",
+    date: "30.09.23",
+    image: require("../assets/posters/hay-on-wye.jpg"),
+    alt: "Trip to Gay on Wye",
   },
   {
     title: "Book club",
@@ -164,5 +186,12 @@ export const eventData = [
     date: "18.04.24",
     image: require("../assets/posters/Lez Read _21.png"),
     alt: "Lez Read Winterson",
+  },
+  {
+    title: "Book club",
+    description: "An Interview with Eleanor Medhurst",
+    date: "11.07.24",
+    image: require("../assets/posters/medhurst.png"),
+    alt: "Paned â Eleanor Medhurst",
   },
 ];
