@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
-import { eventData } from "./EventData"; // Assuming you have your JSON data in ImageData.js
+import { eventData } from "./EventData";
 
 function Events() {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import zara_and_naz from "../assets/zara_and_naz.JPG";
-import crowd from "../assets/crowd2.png";
+import crowd from "../assets/lez_read_crowd.png";
 
 function Welcome() {
   return (
@@ -11,12 +11,7 @@ function Welcome() {
           backgroundImage: `url(${crowd})`,
           backgroundSize: "cover",
           backgroundPosition: "top center", // Aligns the top of the image with the top of the container
-          backgroundAttachment: "fixed", // Keeps the background fixed when scrolling
           minHeight: "80vh",
-          display: "flex", // Ensures children are flex items
-          justifyContent: "center", // Centers the image horizontally
-          alignItems: "center", // Centers the image vertically
-          alignContent: "center",
           maxWidth: "100vw",
         }}
       ></Row>
