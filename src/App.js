@@ -5,6 +5,7 @@ import Archive from "./components/Archive";
 import Events from "./components/Events";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }
