@@ -40,7 +40,11 @@ function Welcome() {
             </p>
             <p>
               We are grateful to the{" "}
-              <a href="https://llyfrau.cymru/en/" target="_blank">
+              <a
+                href="https://llyfrau.cymru/en/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Books Council of Wales
               </a>{" "}
               for funding that has helped us to create this website and fund
@@ -60,7 +64,11 @@ function Welcome() {
         <h2 className="text-center py-5">Our Partners and Friends</h2>
         <Row className="pb-5">
           <Col md={4} className="text-center mb-4">
-            <a href="https://thequeeremporium.co.uk" target="_blank">
+            <a
+              href="https://thequeeremporium.co.uk"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src={require("../assets/logos/tqe-logo.png")}
                 alt="The Queer Emporium"
@@ -70,7 +78,11 @@ function Welcome() {
             </a>
           </Col>
           <Col md={4} className="text-center mb-4">
-            <a href="https://www.instagram.com/lezwritecardiff" target="_blank">
+            <a
+              href="https://www.instagram.com/lezwritecardiff"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src={require("../assets/logos/lezwrite.png")}
                 alt="Lez Write"
@@ -80,7 +92,11 @@ function Welcome() {
             </a>
           </Col>
           <Col md={4} className="text-center mb-4">
-            <a href="https://paned-o-ge.wales/" target="_blank">
+            <a
+              href="https://paned-o-ge.wales/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src={require("../assets/logos/paned.png")}
                 alt="Paned o Ge"

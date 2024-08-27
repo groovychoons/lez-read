@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -17,6 +18,7 @@ function Footer() {
                 Zara Siddique
               </a>
             </p>
+            <Link to="/lez_read_crowd.png" download>Download Image</Link>
           </Col>
           <Col xs={12} md={6} className="text-md-end">
             <p className="mb-0">
