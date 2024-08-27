@@ -22,7 +22,7 @@ function Welcome() {
             alignItems: "center", // Centers the image vertically
           }}
         >
-          <Col md={{ span: 5, offset: 1 }} className="text-end">
+          <Col md={{ span: 5, offset: 1 }} className="text-end pb-3">
             <p>
               Nazmia and Zara set up Lez Read in March 2022 as a way to find
               queer friends in Cardiff without going to bars and nightclubs. Our
