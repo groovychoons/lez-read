@@ -21,11 +21,11 @@ function CustomNavbar() {
             <Nav.Link as={Link} to="/">
               Home
             </Nav.Link>
-            <Nav.Link as={Link} to="/archive">
-              Archive
-            </Nav.Link>
             <Nav.Link as={Link} to="/events">
               Events
+            </Nav.Link>
+            <Nav.Link as={Link} to="/zines">
+              Zines
             </Nav.Link>
             <Nav.Link as={Link} to="/contact">
               Contact

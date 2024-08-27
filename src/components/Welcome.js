@@ -11,7 +11,7 @@ function Welcome() {
           backgroundImage: `url(${crowd})`,
           backgroundSize: "cover",
           backgroundPosition: "top center",
-          minHeight: "80vh",
+          minHeight: "90vh",
           maxWidth: "100vw",
         }}
       ></Row>
